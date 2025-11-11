@@ -27,8 +27,8 @@ import NavbarAfterLogin from './components/NavbarAfterLogin';
 import SellerRegister from './pages/SellerRegister';
 import SellerLogin from './pages/SellerLogin';
 import SellerDashboard from './Dashboards/SellerDashboard';
-import AddProduct from './SellerSection/Addproduct';     // ✅ Import AddProduct
-import EditProduct from './SellerSection/Editproduct';   // ✅ Import EditProduct
+import AddProduct from './SellerSection/AddProduct';     // ✅ Import AddProduct
+import EditProduct from './SellerSection/EditProduct';   // ✅ Import EditProduct
 import ProductsDetails from './usersection/ProductDetails';
 import AdminLogin from './Dashboards/Admin/AdminLogin';
 import AdminDashboard from './Dashboards/Admin/AdminDashboard';
