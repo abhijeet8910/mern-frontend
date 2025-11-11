@@ -10,7 +10,7 @@ const NavbarBeforeLogin = () => {
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
   return (
-    <nav className="fixed top-0 w-full bg-gradient-to-r from-yellow-300  to-orange-300 text-white p-4 shadow-md">
+    <nav className="fixed top-0 w-full bg-gradient-to-r from-green-400  to-green-300 text-white p-4 shadow-md">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo Section */}
         <div className="flex items-center space-x-2">
